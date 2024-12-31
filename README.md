@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fasilkp/fasilkp](https://github.com/fasilkp/fasilkp)
 
+- 😎 My Portfolio [https://mohamedfasil.netlify.app](https://mohamedfasil.netlify.app)
+
 - 💬 Ask me about **React, Express, MOngodb, Node.js, AWS**
 
 - 📫 How to reach me **fasilconnect@gmail.com**
-
-- 😎 My Portfolio **mohamedfasil.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
