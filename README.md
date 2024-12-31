@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fasil KP</h1>
-<h3 align="center">A passionate MERN Full stack developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasilkp" alt="fasilkp" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 😎 My Portfolio [https://mohamedfasil.netlify.app](https://mohamedfasil.netlify.app)
 
-- 💬 Ask me about **React, Express, MOngodb, Node.js, AWS**
+- 💬 Ask me about **React, Express, Mongodb, Node.js, AWS**
 
 - 📫 How to reach me **fasilconnect@gmail.com**
 
