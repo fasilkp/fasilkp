@@ -25,6 +25,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fasilkp&" alt="fasilkp" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilkp&show_icons=true&locale=en&layout=compact" alt="fasilkp" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasilkp&show_icons=true&locale=en" alt="fasilkp" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasilkp&show_icons=true&locale=en&layout=compact" alt="fasilkp" /></p>
+
