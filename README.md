@@ -1,7 +1,18 @@
 <style>
-  img{
-    background-color:white;
-  }
+    a {
+        background-color: rgba(202, 202, 202, 0.619);
+        height: 60px;
+        width: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+    }
+    p{
+        display: flex;
+        gap: 5px;
+    }
 </style>
 
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Mohamed fasil</h1>
