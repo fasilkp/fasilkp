@@ -1,3 +1,9 @@
+<style>
+  img{
+    background-color:white;
+  }
+</style>
+
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Mohamed fasil</h1>
 <h3 align="left">An aspiring fullstack developer from India.</h3>
 
